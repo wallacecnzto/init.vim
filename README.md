@@ -1,2 +1,2 @@
 # init.vim
-My Dotfiles to neovim
+My neovim dotfiles
